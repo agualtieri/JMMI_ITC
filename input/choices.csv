@@ -1,0 +1,564 @@
+list_name,name,label,governorate
+type_markets,governorate_capital_market,Governorate Capital Market,
+type_markets,district_level_market,District Level Market,
+type_markets,other,Other,
+type_markets,do_not_know,Do Not Know,
+,,,
+type_area,urban,Urban,
+type_area,rural,Rural,
+,,,
+market_frequency,daily,Daily,
+market_frequency,weekly,Weekly,
+market_frequency,monthly,Monthly,
+,,,
+difficulty_IOMDRC,no,No,
+difficulty_IOMDRC,road,Road conditions connectiong to the market,
+difficulty_IOMDRC,security,Current security situation,
+difficulty_IOMDRC,supplies,Lack of supplies ,
+difficulty_IOMDRC,capital,Lack of capital,
+difficulty_IOMDRC,suppliers ,Big suppliers hoarding supplies waiting for higher prices,
+difficulty_IOMDRC,other,Other,
+difficulty_IOMDRC,do_not_know,Do not know,
+,,,
+stocking_IOMDRC,no,No,
+stocking_IOMDRC,price,Rise in prices for basic goods,
+stocking_IOMDRC,capital,Lack of credit/capital,
+stocking_IOMDRC,support,Lack of supporting financial institutaions,
+stocking_IOMDRC,suppliers ,Lack of suppliers,
+stocking_IOMDRC,security,Security reasons,
+stocking_IOMDRC,suppliers ,Big suppliers hoarding supplies waiting for higher prices,
+stocking_IOMDRC,other,Other,
+stocking_IOMDRC,do_not_know,Do not know,
+,,,
+market_IOM_DRC,local,Local,
+market_IOM_DRC,district ,District ,
+market_IOM_DRC,urban_center,Urban center,
+,,,
+market_size,small,Small (1 to 5 markets),
+market_size,medium,Medium (5 to 10 markets),
+market_size,large,Large (more than 10 markets),
+,,,
+goods_source,local,Local market suppliers,
+goods_source,district,District market suppliers,
+goods_source,urban_supplier,Urban market suppliers,
+goods_source,other,Other,
+,,,
+time,less_week,Less than one week ,
+time,3weeks,1-3 weeks ,
+time,4weeks,3-4 weeks,
+time,month,More than a month ,
+,,,
+change,increased,Increased,
+change,decreased,Decreased,
+change,same,Same,
+,,,
+seller_type,wholesealer,Wholesealer,
+seller_type,retail,Retail,
+,,,
+yes_no,yes,Yes,
+yes_no,no,No,
+,,,
+type_source,local,Local,
+type_source,regional,Regional,
+type_source,imported_foregin,Imported/Foregin,
+type_source,do_not_know,Do not know,
+,,,
+men_restrictions,transportation,Transportation,
+men_restrictions,work,Work,
+men_restrictions,distance,Distance,
+men_restrictions,prices,Prices,
+men_restrictions,security,Security,
+men_restrictions,none,None,
+,,,
+women_restrictions,transportation,Transportation,
+women_restrictions,work,Work,
+women_restrictions,distance,Distance,
+women_restrictions,prices,Prices,
+women_restrictions,cultural,Cultural boundaries ,
+women_restrictions,security,Security,
+women_restrictions,none,None,
+,,,
+supplier,wholesaler,Wholesaler,
+supplier,vendor,Vendor,
+supplier,other,Other,
+supplier,do_not_know,Do Not Know,
+,,,
+supplier_type,wholesaler,Wholesaler,
+supplier_type,vendor,Vendor,
+supplier_type,other,Other,
+,,,
+how_often,always,Always,
+how_often,often,Often,
+how_often,sometimes,Sometimes,
+how_often,rarely,Rarely,
+how_often,never,Never,
+,,,
+cash_payment,most,Most of them ,
+cash_payment,some,Some of  them ,
+cash_payment,few,Only few costumers ,
+cash_payment,none,None of them,
+,,,
+visit,most,Most of them ,
+visit,not_many,Not many ,
+visit,about_half,About half,
+,,,
+challenges,price_inflation,Price Inflation,
+challenges,liquidity_shortage,Liquidity Shortage,
+challenges,shortage_of_demand,Shortage of Demand,
+challenges,insecurity_and_instability,Insecurity and Instability,
+challenges,supply_shortage,Supply Shortage,
+challenges,government_regulations,Government Regulations,
+challenges,transportation_issues,Transportation Issues,
+challenges,other_see_next_question,Other (see next question),
+challenges,do_not_know,Do Not Know,
+challenges,no_constraints,No Constraints,
+challenges,vendor_did_not_answer,Vendor Did Not Answer,
+,,,
+governorate2,ye12,Abyan,
+governorate2,ye24,Aden,
+governorate2,ye14,Al Bayda,
+governorate2,ye30,Al Dhale'e,
+governorate2,ye18,Al Hudaydah,
+governorate2,ye16,Al Jawf,
+governorate2,ye28,Al Maharah,
+governorate2,ye27,Al Mahwit,
+governorate2,ye13,Amanat Al Asimah,
+governorate2,ye29,Amran,
+governorate2,ye20,Dhamar,
+governorate2,ye19,Hadramaut,
+governorate2,ye17,Hajjah,
+governorate2,ye11,Ibb,
+governorate2,ye25,Lahj,
+governorate2,ye26,Marib,
+governorate2,ye31,Raymah,
+governorate2,ye22,Sa'ada,
+governorate2,ye23,Sana'a,
+governorate2,ye21,Shabwah,
+governorate2,ye32,Socotra,
+governorate2,ye15,Taizz,
+governorate2,vendor_did_not_answer,Vendor Did Not Answer,
+governorate2,do_not_know,Do Not Know,
+,,,
+owner,private,Private,
+owner,public,Public,
+owner,do_not_know,Do Not Know,
+,,,
+type_water,water_spring,Water Spring,
+type_water,treatment_station,Treatment Station,
+type_water,pumping_station_or_borehole,Pumping Station or Borehole,
+type_water,other,Other,
+,,,
+gender,male,Male,
+gender,female,Female,
+,,,
+yes_no2,yes,Yes,
+yes_no2,no,No,
+yes_no2,do_not_know,Do Not Know,
+,,,
+cash,cash,Cash,
+cash,mobile_money,Mobile money,
+cash,credit_debit_card,Credit debit,
+cash,prepaid_cards,Prepaid cards,
+cash,credit,Credit,
+cash,vouchers,Vouchers,
+cash,bartering,Bartering,
+cash,other,Other,
+cash,do_not_know,Do Not Know,
+,,,
+type_bean,dried,Dried,
+type_bean,canned,Canned,
+,,,
+organisation_name,acted,ACTED,
+organisation_name,cyf,Creative Youth Forum (CYF),
+organisation_name,hi,Handicap International (HI),
+organisation_name,nfdhr,National Foundation for Development and Humanitarian Reponse (NFDHR),
+organisation_name,nfhd,National Forum for Human Development (NFHD),
+organisation_name,care,CARE,
+organisation_name,nrc,Norwegian Refugee Council (NRC),
+organisation_name,ocfd,Old City Foundation for Development (OCFD),
+organisation_name,iom,International Organization for Migration (IOM),
+organisation_name,oxfam,OXFAM,
+organisation_name,roc,Raising Organisation for Children Rights (ROC),
+organisation_name,sci,Save the Children (SCI),
+organisation_name,sdf,Sustainable Development Foundation (SDF),
+organisation_name,ydrd,Youth Determination for Relief and Development (YDRD),
+organisation_name,yfca,Yemen Family Care Association (YFCA),
+organisation_name,ysd,Yemen Shore Development Organisation (YSD),
+organisation_name,roc,Rising Organization for Children Rights (ROC),
+organisation_name,b4d,Brains 4 Developmet (B4D),
+organisation_name,si,Solidarites International (SI),
+organisation_name,tyf,Tamdeem Youth Foundation (TYF),
+organisation_name,drc,Danish Refugee Council (DRC),
+organisation_name,adra,Adventist Development and Relief Agency (ADRA),
+organisation_name,soul,Soul Yemen,
+organisation_name,other,Other,
+,,,
+supply_issues,dmg_infra_market,Damaged infrastructure in the market place,
+supply_issues,dmg_infra_sorrounding,Damaged infrastructure in the surrounding area,
+supply_issues,dmg_storage,Destruction/damage to storage capacity,
+supply_issues,move_restriction,"Movement restrictions (check points, curfews, roadblocks, etc)",
+supply_issues,other,Other (please specify),
+supply_issues,did_not_answer,Vendor did not answer,
+,,,
+dmg_infra,road,Road infrastructure,
+dmg_infra,electrical,Electrical infrastructure,
+dmg_infra,water,Water infrastructure,
+dmg_infra,communication,Communication infrastructure,
+dmg_infra,other,Other (please specify),
+,,,
+governorate,YE11,Ibb,
+governorate,YE12,Abyan,
+governorate,YE13,Amanat Al Asimah,
+governorate,YE14,Al Bayda,
+governorate,YE15,Taizz,
+governorate,YE16,Al Jawf,
+governorate,YE17,Hajjah,
+governorate,YE18,Al Hudaydah,
+governorate,YE19,Hadramaut,
+governorate,YE20,Dhamar,
+governorate,YE21,Shabwah,
+governorate,YE22,Saada,
+governorate,YE23,Sanaa,
+governorate,YE24,Aden,
+governorate,YE25,Lahj,
+governorate,YE26,Marib,
+governorate,YE27,Al Mahwit,
+governorate,YE28,Al Maharah,
+governorate,YE29,Amran,
+governorate,YE30,Al Dhalee,
+governorate,YE31,Raymah,
+governorate,YE32,Socotra,
+,,,
+district,YE1101,Al Qafr,YE11
+district,YE1102,Yarim,YE11
+district,YE1103,Ar Radmah,YE11
+district,YE1104,An Nadirah,YE11
+district,YE1105,Ash Sha'ir,YE11
+district,YE1106,As Saddah,YE11
+district,YE1107,Al Makhadir,YE11
+district,YE1108,Hubaysh,YE11
+district,YE1109,Hazm Al Udayn,YE11
+district,YE1110,Far Al Udayn,YE11
+district,YE1111,Al Udayn,YE11
+district,YE1112,Jiblah,YE11
+district,YE1113,Ba'dan,YE11
+district,YE1114,As Sabrah,YE11
+district,YE1115,As Sayyani,YE11
+district,YE1116,Dhi As Sufal,YE11
+district,YE1117,Mudhaykhirah,YE11
+district,YE1118,Al Mashannah,YE11
+district,YE1119,Al Dhihar,YE11
+district,YE1120,Ibb,YE11
+district,YE1201,Al Mahfad,YE12
+district,YE1202,Mudiyah,YE12
+district,YE1203,Jayshan,YE12
+district,YE1204,Lawdar,YE12
+district,YE1205,Sibah,YE12
+district,YE1206,Rasad,YE12
+district,YE1207,Sarar,YE12
+district,YE1208,Al Wade'a,YE12
+district,YE1209,Ahwar,YE12
+district,YE1210,Zingibar,YE12
+district,YE1211,Khanfir,YE12
+district,YE1301,Old City,YE13
+district,YE1302,Shu'aub,YE13
+district,YE1303,Az'zal,YE13
+district,YE1304,Assafi'yah,YE13
+district,YE1305,As Sabain,YE13
+district,YE1306,Al Wahdah,YE13
+district,YE1307,At Tahrir,YE13
+district,YE1308,Ma'ain,YE13
+district,YE1309,Ath'thaorah,YE13
+district,YE1310,Bani Al Harith,YE13
+district,YE1401,Na'man,YE14
+district,YE1402,Nati',YE14
+district,YE1403,Maswarah,YE14
+district,YE1404,As Sawma'ah,YE14
+district,YE1405,Az Zahir,YE14
+district,YE1406,Dhi Na'im,YE14
+district,YE1407,At Taffah,YE14
+district,YE1408,Mukayras,YE14
+district,YE1409,Al Bayda City,YE14
+district,YE1410,Al Bayda,YE14
+district,YE1411,As Sawadiyah,YE14
+district,YE1412,Radman Al Awad,YE14
+district,YE1413,Rada',YE14
+district,YE1414,Al Quraishyah,YE14
+district,YE1415,Wald Rabi',YE14
+district,YE1416,Al A'rsh,YE14
+district,YE1417,Sabah,YE14
+district,YE1418,Ar Ryashyyah,YE14
+district,YE1419,Ash Sharyah,YE14
+district,YE1420,Al Malagim,YE14
+district,YE1501,Mawiyah,YE15
+district,YE1502,Shara'b As Salam,YE15
+district,YE1503,Shara'b Ar Rawnah,YE15
+district,YE1504,Maqbanah,YE15
+district,YE1505,Al  Mukha,YE15
+district,YE1506,Dhubab,YE15
+district,YE1507,Mawza,YE15
+district,YE1508,Jabal Habashy,YE15
+district,YE1509,Mashra'a Wa Hadnan,YE15
+district,YE1510,Sabir Al Mawadim,YE15
+district,YE1511,Al Misrakh,YE15
+district,YE1512,Dimnat Khadir,YE15
+district,YE1513,As Silw,YE15
+district,YE1514,Ash Shamayatayn,YE15
+district,YE1515,Al Wazi'iyah,YE15
+district,YE1516,Hayfan,YE15
+district,YE1517,Al Mudhaffar,YE15
+district,YE1518,Al Qahirah,YE15
+district,YE1519,Salh,YE15
+district,YE1520,At Ta'iziyah,YE15
+district,YE1521,Al Ma'afer,YE15
+district,YE1522,Al Mawasit,YE15
+district,YE1523,Sama,YE15
+district,YE1601,Khabb wa ash Sha'af,YE16
+district,YE1602,Al Humaydat,YE16
+district,YE1603,Al Matammah,YE16
+district,YE1604,Az Zahir,YE16
+district,YE1605,Al Hazm,YE16
+district,YE1606,Al Maton,YE16
+district,YE1607,Al Maslub,YE16
+district,YE1608,Al Ghayl,YE16
+district,YE1609,Al Khalq,YE16
+district,YE1610,Bart Al Anan,YE16
+district,YE1611,Rajuzah,YE16
+district,YE1612,Kharab Al Marashi,YE16
+district,YE1701,Bakil Al Mir,YE17
+district,YE1702,Haradh,YE17
+district,YE1703,Midi,YE17
+district,YE1704,Abs,YE17
+district,YE1705,Hayran,YE17
+district,YE1706,Mustaba,YE17
+district,YE1707,Kushar,YE17
+district,YE1708,Al Jamimah,YE17
+district,YE1709,Kuhlan Ash Sharaf,YE17
+district,YE1710,Aflah Ash Shawm,YE17
+district,YE1711,Khayran Al Muharraq,YE17
+district,YE1712,Aslem,YE17
+district,YE1713,Qafl Shamer,YE17
+district,YE1714,Aflah Al Yaman,YE17
+district,YE1715,Al Mahabishah,YE17
+district,YE1716,Al Miftah,YE17
+district,YE1717,Al Maghrabah,YE17
+district,YE1718,Kuhlan Affar,YE17
+district,YE1719,Sharas,YE17
+district,YE1720,Mabyan,YE17
+district,YE1721,Ash Shahil,YE17
+district,YE1722,Ku'aydinah,YE17
+district,YE1723,Wadhrah,YE17
+district,YE1724,Bani Qa'is,YE17
+district,YE1725,Ash Shaghadirah,YE17
+district,YE1726,Najrah,YE17
+district,YE1727,Bani Al Awam,YE17
+district,YE1728,Hajjah City,YE17
+district,YE1729,Hajjah,YE17
+district,YE1730,Washhah,YE17
+district,YE1731,Qarah,YE17
+district,YE1801,Az Zuhrah,YE18
+district,YE1802,Alluheyah,YE18
+district,YE1803,Kamaran,YE18
+district,YE1804,As Salif,YE18
+district,YE1805,Al Munirah,YE18
+district,YE1806,Al Qanawis,YE18
+district,YE1807,Az Zaydiyah,YE18
+district,YE1808,Al Mighlaf,YE18
+district,YE1809,Ad Dahi,YE18
+district,YE1810,Bajil,YE18
+district,YE1811,Al Hajjaylah,YE18
+district,YE1812,Bura,YE18
+district,YE1813,Al Marawi'ah,YE18
+district,YE1814,Ad Durayhimi,YE18
+district,YE1815,As Sukhnah,YE18
+district,YE1816,Al Mansuriyah,YE18
+district,YE1817,Bayt Al Faqiah,YE18
+district,YE1818,Jabal Ra's,YE18
+district,YE1819,Hays,YE18
+district,YE1820,Al Khawkhah,YE18
+district,YE1821,Al Hawak,YE18
+district,YE1822,Al Mina,YE18
+district,YE1823,Al Hali,YE18
+district,YE1824,Zabid,YE18
+district,YE1825,Al Garrahi,YE18
+district,YE1826,At Tuhayat,YE18
+district,YE1901,Rumah,YE19
+district,YE1902,Thamud,YE19
+district,YE1903,Al Qaf,YE19
+district,YE1904,Zamakh wa Manwakh,YE19
+district,YE1905,Hagr As Sai'ar,YE19
+district,YE1906,Al Abr,YE19
+district,YE1907,Al Qatn,YE19
+district,YE1908,Shibam,YE19
+district,YE1909,Sah,YE19
+district,YE1910,Sayun,YE19
+district,YE1911,Tarim,YE19
+district,YE1912,As Sawm,YE19
+district,YE1913,Ar Raydah Wa Qusayar,YE19
+district,YE1914,Ad Dis,YE19
+district,YE1915,Ash Shihr,YE19
+district,YE1916,Ghayl Bin Yamin,YE19
+district,YE1917,Ghayl Ba Wazir,YE19
+district,YE1918,Daw'an,YE19
+district,YE1919,Wadi Al Ayn,YE19
+district,YE1920,Rakhyah,YE19
+district,YE1921,Amd,YE19
+district,YE1922,Adh Dhlia'ah,YE19
+district,YE1923,Yabuth,YE19
+district,YE1924,Hajr,YE19
+district,YE1925,Brom Mayfa,YE19
+district,YE1926,Al Mukalla,YE19
+district,YE1927,Al Mukalla City,YE19
+district,YE1928,Huraidhah,YE19
+district,YE2001,Al Hada,YE20
+district,YE2002,Jahran,YE20
+district,YE2003,Jabal Ash sharq,YE20
+district,YE2004,Maghirib Ans,YE20
+district,YE2005,Utmah,YE20
+district,YE2006,Wusab Al Ali,YE20
+district,YE2007,Wusab As Safil,YE20
+district,YE2008,Dhamar City,YE20
+district,YE2009,Mayfa'at Anss,YE20
+district,YE2010,Anss,YE20
+district,YE2011,Dawran Aness,YE20
+district,YE2012,Al Manar,YE20
+district,YE2101,Dhar,YE21
+district,YE2102,Al Talh,YE21
+district,YE2103,Jardan,YE21
+district,YE2104,Arma,YE21
+district,YE2105,Usaylan,YE21
+district,YE2106,Ain,YE21
+district,YE2107,Bayhan,YE21
+district,YE2108,Merkhah Al Ulya,YE21
+district,YE2109,Merkhah As Sufla,YE21
+district,YE2110,Nisab,YE21
+district,YE2111,Hatib,YE21
+district,YE2112,As Said,YE21
+district,YE2113,Ataq,YE21
+district,YE2114,Habban,YE21
+district,YE2115,Ar Rawdah,YE21
+district,YE2116,Mayfa'a,YE21
+district,YE2117,Rudum,YE21
+district,YE2201,Baqim,YE22
+district,YE2202,Qatabir,YE22
+district,YE2203,Monabbih,YE22
+district,YE2204,Ghamr,YE22
+district,YE2205,Razih,YE22
+district,YE2206,Shada'a,YE22
+district,YE2207,Al Dhaher,YE22
+district,YE2208,Haydan,YE22
+district,YE2209,Saqayn,YE22
+district,YE2210,Majz,YE22
+district,YE2211,Sahar,YE22
+district,YE2212,As Safra,YE22
+district,YE2213,Al Hashwah,YE22
+district,YE2214,Kitaf wa Al Boqe'e,YE22
+district,YE2215,Sa'adah,YE22
+district,YE2301,Hamdan,YE23
+district,YE2302,Arhab,YE23
+district,YE2303,Nihm,YE23
+district,YE2304,Bani Hushaysh,YE23
+district,YE2305,Sanhan,YE23
+district,YE2306,Bilad Ar Rus,YE23
+district,YE2307,Bani Matar,YE23
+district,YE2308,Al Haymah Ad Dakhiliyah,YE23
+district,YE2309,Al Haymah Al Kharijiyah,YE23
+district,YE2310,Manakhah,YE23
+district,YE2311,Sa'fan,YE23
+district,YE2312,Khwlan,YE23
+district,YE2313,Attyal,YE23
+district,YE2314,Bani Dhabyan,YE23
+district,YE2315,Al Husn,YE23
+district,YE2316,Jihanah,YE23
+district,YE2401,Dar Sad,YE24
+district,YE2402,Ash Shaikh Outhman,YE24
+district,YE2403,Al Mansura,YE24
+district,YE2404,Al Buraiqeh,YE24
+district,YE2405,Attawahi,YE24
+district,YE2406,Al Mualla,YE24
+district,YE2407,Craiter,YE24
+district,YE2408,Khur Maksar,YE24
+district,YE2501,Al Had,YE25
+district,YE2502,Yafa'a,YE25
+district,YE2503,Al Maflahy,YE25
+district,YE2504,Yahr,YE25
+district,YE2505,Habil Jabr,YE25
+district,YE2506,Halimayn,YE25
+district,YE2507,Radfan,YE25
+district,YE2508,Al Milah,YE25
+district,YE2509,Al Musaymir,YE25
+district,YE2510,Al Qabbaytah,YE25
+district,YE2511,Tur Al Bahah,YE25
+district,YE2512,Al Maqatirah,YE25
+district,YE2513,Al Madaribah Wa Al Arah,YE25
+district,YE2514,Al  Hawtah,YE25
+district,YE2515,Tuban,YE25
+district,YE2601,Majzar,YE26
+district,YE2602,Raghwan,YE26
+district,YE2603,Medghal,YE26
+district,YE2604,Harib Al Qaramish,YE26
+district,YE2605,Bidbadah,YE26
+district,YE2606,Sirwah,YE26
+district,YE2607,Al Jubah,YE26
+district,YE2608,Rahabah,YE26
+district,YE2609,Harib,YE26
+district,YE2610,Mahliyah,YE26
+district,YE2611,Al Abdiyah,YE26
+district,YE2612,Marib City,YE26
+district,YE2613,Marib,YE26
+district,YE2614,Jabal Murad,YE26
+district,YE2701,Shibam Kawkaban,YE27
+district,YE2702,At Tawilah,YE27
+district,YE2703,Ar Rujum,YE27
+district,YE2704,Al Khabt,YE27
+district,YE2705,Milhan,YE27
+district,YE2706,Hufash,YE27
+district,YE2707,Bani Sa'd,YE27
+district,YE2708,Al Mahwait City,YE27
+district,YE2709,Al Mahwait,YE27
+district,YE2801,Shahan,YE28
+district,YE2802,Hat,YE28
+district,YE2803,Hawf,YE28
+district,YE2804,Al Ghaydah,YE28
+district,YE2805,Man'ar,YE28
+district,YE2806,Al Masilah,YE28
+district,YE2807,Sayhut,YE28
+district,YE2808,Qishn,YE28
+district,YE2809,Huswain,YE28
+district,YE2901,Harf Sufyan,YE29
+district,YE2902,Huth,YE29
+district,YE2903,Al Ashah,YE29
+district,YE2904,Al Qaflah,YE29
+district,YE2905,Shaharah,YE29
+district,YE2906,Al Madan,YE29
+district,YE2907,Suwayr,YE29
+district,YE2908,Habur Zulaymah,YE29
+district,YE2909,Dhi Bin,YE29
+district,YE2910,Kharif,YE29
+district,YE2911,Raydah,YE29
+district,YE2912,Jabal Iyal Yazid,YE29
+district,YE2913,As Sudah,YE29
+district,YE2914,As Sawd,YE29
+district,YE2915,Amran,YE29
+district,YE2916,Maswar,YE29
+district,YE2917,Thula,YE29
+district,YE2918,Iyal Surayh,YE29
+district,YE2919,Khamir,YE29
+district,YE2920,Bani Suraim,YE29
+district,YE3001,Juban,YE30
+district,YE3002,Damt,YE30
+district,YE3003,Qa'atabah,YE30
+district,YE3004,Ash Shu'ayb,YE30
+district,YE3005,Al Hussein,YE30
+district,YE3006,Ad Dhale'e,YE30
+district,YE3007,Jahaf,YE30
+district,YE3008,Al Azariq,YE30
+district,YE3009,Al Husha,YE30
+district,YE3101,Bilad At Ta'am,YE31
+district,YE3102,As Salafiyah,YE31
+district,YE3103,Al Jabin,YE31
+district,YE3104,Mazhar,YE31
+district,YE3105,Kusmah,YE31
+district,YE3106,Al Jafariyah,YE31
+district,YE3201,Hidaybu,YE32
+district,YE3202,Qulensya Wa Abd Al Kuri,YE32

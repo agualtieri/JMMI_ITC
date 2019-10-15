@@ -6,7 +6,6 @@
 rm(list=ls())
 
 
-
 ## Main Yemen Market Monitoring Script ##
 # clear R environment
 rm(list=ls())
@@ -30,6 +29,7 @@ source("./Scripts/basic scripts/calculate_medians.R")
 source("./Scripts/basic scripts/multiple_response.R")
 
 library(openxlsx)
+
 # Months -> update according to the month being analyzed
 current_month <- "august_2019"
 
@@ -320,19 +320,3 @@ supply.increase.wash <- bind_rows(supply.increase.water50, supply.increase.water
 
 write.csv(supply.increase.wash, file = paste0("Outputs/supply_increase_water_",current_month,".csv"), row.names = FALSE)
 
-
-
-
-
-## Download REACH-specific packages
-
-
-## Load libraries
-
-
-
-## Load questionnaire
-
-
-
-## 
